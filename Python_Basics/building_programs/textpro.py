@@ -1,5 +1,5 @@
 
-total_message = ''
+'''total_message = ''
 
 while True:
     message = input("Say Something:")
@@ -11,4 +11,8 @@ while True:
         message =  ' ' + message.title() + "."
     total_message += message
 
-print(total_message)   
+print(total_message)   '''
+
+
+
+
