@@ -1,3 +1,6 @@
+from _typeshed import HasFileno
+
+
 def sentence_maker(phrase):
     capitalized = phrase.capitalize()
     interrogatives = ("why","how","where","what")
